@@ -16,7 +16,7 @@ namespace TestGame
             //產生亂數
             guess = new Random().Next(100);
             Console.WriteLine("請輸入一個數字(0-100):");
-
+              
             while (true)  //game loop 
             {
                 //決定輸入內容
