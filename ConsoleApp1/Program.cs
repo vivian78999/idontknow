@@ -13,7 +13,7 @@ namespace TestGame
             int input = -1;
             int guess = 55;
 
-            //產生亂數
+            //產生亂數 
             guess = new Random().Next(100);
             Console.WriteLine("請輸入一個數字(0-100):");
               
